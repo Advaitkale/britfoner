@@ -2,7 +2,7 @@ from keras.layers import *
 from keras.models import Model
 from keras import initializers
 from .backend import rnn, learning_phase_scope
-from keras.engine.topology import Node, _collect_previous_mask, _collect_input_shape
+from keras.engine.topology import Node, _collect_input_shape
 import inspect
 
 
