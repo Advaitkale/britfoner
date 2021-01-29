@@ -1,7 +1,8 @@
 
 <h1>britfoner<br/></h1><br/>
 
-<p>automated pronunciation for British English with Keras+Tensorflow</p><br/>
+<p> 
+_Britfoner_ is an api for translating English words to their phonetic form (in British English). It is an automated pronunciation for British English with Keras+Tensorflow</p><br/>
 
  
   [![CircleCI](https://circleci.com/gh/JoseLlarena/britfoner.svg?style=svg)](https://circleci.com/gh/JoseLlarena/britfoner)
